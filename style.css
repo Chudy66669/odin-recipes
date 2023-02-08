@@ -13,5 +13,6 @@ body {
 }
 img {
     height: auto;
-    width: 300;
+    width: 100px;
+    align-items: center;
 }
